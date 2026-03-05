@@ -1,7 +1,11 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+# data folders (huge)
+ma-data/
 data/
-logs/
-stata_code/_BuildFinalData_Internal.do
+**/*.zip
+
+# jupyter noise
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# python cache
+__pycache__/
